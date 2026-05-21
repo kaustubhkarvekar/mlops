@@ -7,9 +7,9 @@ This is a repository to track all MLOps assignments and Projects
 3. Include requirements.txt for all project dependencies
 
 # 20260521 - Instructions to run **assignment_2**
-1. **Setup Instructions:**
-   a. Clone the repository - `git clone git@github.com:kaustubhkarvekar/mlops.git`
-   b. Change the working dir to assignment_2 - `cd assignment_2/`
+1. **Setup Instructions:** \
+   a. Clone the repository - `git clone git@github.com:kaustubhkarvekar/mlops.git` \
+   b. Change the working dir to assignment_2 - `cd assignment_2/` \
    c. Install all the required dependencies - `pip3 --install requirements.txt`
 
 5. **Training Platform:**
