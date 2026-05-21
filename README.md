@@ -8,9 +8,9 @@ This is a repository to track all MLOps assignments and Projects
 
 # 20260521 - Instructions to run **assignment_2**
 1. **Setup Instructions:**
-   a. Clone the repository - `git clone git@github.com:kaustubhkarvekar/mlops.git`
-   b. Change the working dir to assignment_2 - `cd assignment_2/`
-   c. Install all the required dependencies - `pip3 --install requirements.txt`
+a. Clone the repository - `git clone git@github.com:kaustubhkarvekar/mlops.git`
+b. Change the working dir to assignment_2 - `cd assignment_2/`
+c. Install all the required dependencies - `pip3 --install requirements.txt`
 
 2. **Training Platform:**
    Platform Name - **Kaggle**
