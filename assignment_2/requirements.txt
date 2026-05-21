@@ -1,0 +1,30 @@
+# Core utilities
+requests
+gdown
+gzip
+json
+pickle5
+random
+
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+torch
+
+# Hugging Face ecosystem
+transformers
+huggingface-hub
+
+# Experiment tracking
+wandb
+
+# Kaggle secrets (preinstalled in Kaggle, but list for completeness)
+kaggle
+
