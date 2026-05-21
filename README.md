@@ -24,9 +24,9 @@ This is a repository to track all MLOps assignments and Projects
    |F1 Score  | 0.61375  |
    |Eval Loss | 2.30386  |
 
-8. **HuggingFace Model:**
+8. **HuggingFace Model:** \
    Link - https://huggingface.co/kaustubhkarvekar/distilbert-goodreads-genres
 
-9. **W&B Project Dashboard:**
+9. **W&B Project Dashboard:** \
    Link - https://wandb.ai/g25ait2050-iit-jodhpur/mlops-assignment2/reports/MLOps-Assignment-2-Report--VmlldzoxNjk1ODc4Ng?accessToken=o2fllzyyoz9k7obospudw003n0dort17z5kcvxtwm7t0q2o0say49n0l3dkwga57
    
